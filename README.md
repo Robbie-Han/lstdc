@@ -1,2 +1,2 @@
 # lstdc
-xcode编译报错
+解决Xcode file not found: /usr/lib/libstdc++.dylib
